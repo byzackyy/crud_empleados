@@ -22,5 +22,13 @@
         "edad": 20,
         "sueldo_base": 1000000,
         "id_cargo": "C1"
+    },
+    {
+        "nombre": "Era",
+        "apellido": "Syndulla",
+        "sueldo": 800000
+
+
+
     }
 ]
